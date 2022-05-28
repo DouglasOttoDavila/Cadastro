@@ -1,7 +1,7 @@
 ## Atividade de Programação Orientada a Objeto (POO)
 
 - UniRitter
-- Professor Victor
+- Professor Vitor
 
 ## (2,0) Crie um cadastro que tenha uma classe para representar uma pessoa, com os atributos privados nome, idade, sexo e endereço.
 
