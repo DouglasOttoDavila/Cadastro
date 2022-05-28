@@ -1,18 +1,10 @@
-## Getting Started
+## Atividade de Programação Orientada a Objeto (POO)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- UniRitter
+- Professor Victor
 
-## Folder Structure
+## (2,0) Crie um cadastro que tenha uma classe para representar uma pessoa, com os atributos privados nome, idade, sexo e endereço.
 
-The workspace contains two folders by default, where:
+Crie os métodos públicos necessários para sets e gets e também um método para imprimir os dados das pessoas cadastradas. Para que o cadastro seja efetivo, você deverá cria uma classe endereço conforme o diagrama abaixo. Observe bem o diagrama e crie o código em Java.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+https://i.ibb.co/YQQFH1W/Screenshot-41.jpg
